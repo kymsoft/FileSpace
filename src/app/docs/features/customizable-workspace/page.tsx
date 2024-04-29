@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Customizer() {
   return (
     <div className="mx-10">
-        <h1 className="text-xl font-bold my-5">Customizable Workspace 🛠️🌐</h1>
+        <h1 className="text-xl font-bold my-5">Customizable Workspace</h1>
       <p>
         Enjoy easy workspace customization on Syncspace to carry
         out various functions seamlessly. Tailor your workspace to fit your
@@ -28,7 +28,7 @@ export default function Customizer() {
           <p className="text-center">Syncspace User Workspace</p>
           <div className="absolute right-5">
         <Link href="../features/create-organization" className="cursor-pointer p-2 bg-secondary rounded-md" >
-          Next ➡️
+          Next 
         </Link>
       </div>
     </div>

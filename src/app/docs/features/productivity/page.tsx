@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Productivity() {
   return (
     <div className="mx-10">
-      <h1 className="text-xl font-bold my-5">Boost Project Productivity 🛠️</h1>
+      <h1 className="text-xl font-bold my-5">Boost Project Productivity</h1>
       <p>
         Syncspace revolutionizes project productivity by providing a
         comprehensive suite of tools designed to streamline collaboration and
@@ -32,7 +32,7 @@ export default function Productivity() {
       </div>
       <div className="absolute right-5">
         <Link href="../features/collaboration" className="cursor-pointer p-2 bg-secondary rounded-md" >
-          Next ➡️
+          Next
         </Link>
       </div>
     </div>

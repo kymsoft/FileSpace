@@ -5,7 +5,7 @@ export default function DocsManager() {
   
   return (
     <div className="mx-10">
-      <h1 className="text-xl font-bold my-5">File Manager 📂</h1>
+      <h1 className="text-xl font-bold my-5">File Manager</h1>
       <div>
         <p>
           File management is a critical aspect of our collaborative platforms,
@@ -14,7 +14,7 @@ export default function DocsManager() {
           control, granular access permissions, security measures, and seamless
           integration with other tools. A well-designed file manager enhances
           productivity, streamlines workflows, and promotes effective teamwork
-          within the platform. 📂✨
+          within the platform.
         </p>
       </div>
 
@@ -100,7 +100,7 @@ export default function DocsManager() {
       </div>
       <div className="absolute right-5">
         <Link href="../features/customizable-workspace" className="cursor-pointer p-2 bg-secondary rounded-md" >
-          Next ➡️
+          Next 
         </Link>
       </div>
     </div>

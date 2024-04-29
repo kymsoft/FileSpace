@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function CreateSpace() {
   return (
     <div className="mx-10">
-        <h1 className="text-xl font-bold my-5">Create Organizations🖥️</h1>
+        <h1 className="text-xl font-bold my-5">Create Organizations</h1>
       <p>
       "Organizations" are workspaces where users can carry out various functions.
       Bring together teams, projects, and documents under one virtual
@@ -35,7 +35,7 @@ export default function CreateSpace() {
           </div>
           <div className="absolute right-5">
         <Link href="../features/productivity" className="cursor-pointer p-2 bg-secondary rounded-md" >
-          Next ➡️
+          Next 
         </Link>
       </div>
           
