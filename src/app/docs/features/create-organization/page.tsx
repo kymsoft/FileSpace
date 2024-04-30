@@ -35,7 +35,7 @@ export default function CreateSpace() {
           </div>
           <div className="absolute right-5">
         <Link href="../features/productivity" className="cursor-pointer p-2 bg-secondary rounded-md" >
-          Next 
+          Next ➡️
         </Link>
       </div>
           

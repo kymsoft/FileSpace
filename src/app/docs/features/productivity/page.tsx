@@ -32,7 +32,7 @@ export default function Productivity() {
       </div>
       <div className="absolute right-5">
         <Link href="../features/collaboration" className="cursor-pointer p-2 bg-secondary rounded-md" >
-          Next
+          Next ➡️
         </Link>
       </div>
     </div>

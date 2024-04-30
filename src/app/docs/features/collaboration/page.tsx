@@ -30,7 +30,7 @@ export default function Collaboration() {
       </div>
       <div className="absolute right-5">
         <Link href="../features/security" className="cursor-pointer p-2 bg-secondary rounded-md" >
-          Next
+          Next ➡️
         </Link>
       </div>
     </div>
