@@ -10,8 +10,8 @@ export default function Security() {
         authentication, ensuring that only authorized individuals can interact
         with the platform. Clerk securely stores user data, including details
         like usernames, email addresses, and hashed passwords. Additionally, it
-        supports role-based access control (RBAC), allowing you to define roles
-        (such as "Admin" or "Member") and their corresponding permissions. By
+        supports role-based access control ,RBAC, allowing you to define roles
+        ,such as Admin or Member, and their corresponding permissions. By
         integrating robust authentication flow with Clerk, Syncspace enhances
         security and provides a seamless user experience. If you have any
         specific questions about implementation of Clerk, feel free to ask!

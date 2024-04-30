@@ -8,9 +8,9 @@ export default function Introduction() {
           INTRODUCTION
         </h3>
         <p className="text-lg">
-          Syncspace is not just another collaboration platform; it's a dynamic
+          Syncspace is not just another collaboration platform; it is a dynamic
           ecosystem designed to revolutionize the way teams work together. With
-          Syncspace, you'll experience the power of effortless collaboration,
+          Syncspace, you will experience the power of effortless collaboration,
           intuitive document management, and customizable workspaces—all in one
           innovative platform.
         </p>
@@ -27,7 +27,7 @@ export default function Introduction() {
           user identities and managing access to Syncspace collaborative
           platform. Clerk employs industry-leading encryption protocols and
           security measures to safeguard user authentication processes,
-          protecting against unauthorized access and data breaches. With Clerk's
+          protecting against unauthorized access and data breaches. With Clerks
           multi-factor authentication capabilities and OAuth integration, users
           can verify their identities seamlessly across various devices and
           platforms, enhancing security without sacrificing user experience.
