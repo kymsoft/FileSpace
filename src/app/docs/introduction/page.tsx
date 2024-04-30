@@ -24,7 +24,7 @@ export default function Introduction() {
           streamlined experience for all users, providing robust protection for
           sensitive user and organization details. Clerk, as a trusted
           third-party authentication tool, plays a pivotal role in verifying
-          user identities and managing access to Syncspace's collaborative
+          user identities and managing access to Syncspace collaborative
           platform. Clerk employs industry-leading encryption protocols and
           security measures to safeguard user authentication processes,
           protecting against unauthorized access and data breaches. With Clerk's

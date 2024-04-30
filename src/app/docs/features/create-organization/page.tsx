@@ -6,15 +6,15 @@ export default function CreateSpace() {
     <div className="mx-10">
         <h1 className="text-xl font-bold my-5">Create Organizations</h1>
       <p>
-      "Organizations" are workspaces where users can carry out various functions.
+      Organizations are workspaces where users can carry out various functions.
       Bring together teams, projects, and documents under one virtual
       roof, empowering efficient collaboration like never before. With the
       ability to establish multiple organizations, invite members, and assign
       roles, Syncspace puts you in control of your collaborative endeavors.
-      Whether you're coordinating with colleagues, clients, or partners, harness
+      Whether you are coordinating with colleagues, clients, or partners, harness
       the full potential of organization-level tools to streamline file
       management and enhance productivity. Say hello to effortless collaboration
-      and goodbye to scattered documents with Syncspace's Creating Organizations
+      and goodbye to scattered documents with Syncspace Creating Organizations
       feature.
       </p>
       <div className="flex w-full justify-center items-center my-5">

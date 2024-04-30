@@ -8,7 +8,7 @@ export default function Customizer() {
       <p>
         Enjoy easy workspace customization on Syncspace to carry
         out various functions seamlessly. Tailor your workspace to fit your
-        unique needs and preferences effortlessly. Whether you're collaborating
+        unique needs and preferences effortlessly. Whether you are collaborating
         on a project with your team or organizing your personal documents,
         Syncspace empowers you to create the perfect environment. With
         customizable layouts, themes, and organization tools, you can design a
@@ -28,7 +28,7 @@ export default function Customizer() {
           <p className="text-center">Syncspace User Workspace</p>
           <div className="absolute right-5">
         <Link href="../features/create-organization" className="cursor-pointer p-2 bg-secondary rounded-md" >
-          Next 
+          Next ➡️
         </Link>
       </div>
     </div>

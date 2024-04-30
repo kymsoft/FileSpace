@@ -8,7 +8,7 @@ export default function Collaboration() {
       <p>
         Collaboration in Syncspace is redefined with a suite of features and
         tools designed to facilitate seamless teamwork, foster creativity, and
-        drive productivity. At the core of Syncspace's collaboration
+        drive productivity. At the core of Syncspace collaboration
         capabilities is its intuitive and user-friendly interface, which
         empowers users to collaborate effortlessly in real-time from anywhere in
         the world. One of the key features that sets Syncspace apart is its

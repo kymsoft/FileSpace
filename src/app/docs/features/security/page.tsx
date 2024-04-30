@@ -12,9 +12,9 @@ export default function Security() {
         like usernames, email addresses, and hashed passwords. Additionally, it
         supports role-based access control (RBAC), allowing you to define roles
         (such as "Admin" or "Member") and their corresponding permissions. By
-        integrating Clerk's robust authentication flow, Syncspace enhances
+        integrating robust authentication flow with Clerk, Syncspace enhances
         security and provides a seamless user experience. If you have any
-        specific questions about Clerk's implementation, feel free to ask!
+        specific questions about implementation of Clerk, feel free to ask!
       </p>
       <div className="flex w-full justify-center items-center my-5">
         <Image src="/assets/manage profile.png" alt="" height={400} width={400} />

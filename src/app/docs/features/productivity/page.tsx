@@ -16,7 +16,7 @@ export default function Productivity() {
         cumbersome email chains and file versioning issues. The ability to
         assign roles and permissions ensures that every team member has the
         appropriate level of access, promoting accountability and minimizing
-        confusion. Additionally, Syncspace's customizable workspaces allow users
+        confusion. Additionally, Syncspace customizable workspaces allow users
         to tailor their environment to suit their specific project requirements,
         fostering creativity and productivity. With Syncspace, projects move
         forward seamlessly, deadlines are met with ease, and teams achieve their
