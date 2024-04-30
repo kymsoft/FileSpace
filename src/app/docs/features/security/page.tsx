@@ -14,7 +14,7 @@ export default function Security() {
         (such as "Admin" or "Member") and their corresponding permissions. By
         integrating Clerk's robust authentication flow, Syncspace enhances
         security and provides a seamless user experience. If you have any
-        specific questions about Clerk's implementation, feel free to ask! 😊
+        specific questions about Clerk's implementation, feel free to ask!
       </p>
       <div className="flex w-full justify-center items-center my-5">
         <Image src="/assets/manage profile.png" alt="" height={400} width={400} />

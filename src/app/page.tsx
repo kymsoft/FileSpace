@@ -83,7 +83,7 @@ export default function LandingPage() {
               </CardContent>
               <CardFooter className="flex justify-between">
                 <div></div>
-                <Link href="/docs/features" className="text-right" >See More</Link>
+                <Link href="/docs/features/docs-manager" className="text-right" >See More</Link>
               </CardFooter>
             </Card>
             <Card className="w-[350px] bg-secondary mr-2">
@@ -107,7 +107,7 @@ export default function LandingPage() {
               </CardContent>
               <CardFooter className="flex justify-between">
               <div></div>
-                <Link href="/docs/features" className="text-right" >See More</Link>
+                <Link href="/docs/features/docs-manager" className="text-right" >See More</Link>
               </CardFooter>
             </Card>
             <Card className="w-[350px] bg-secondary">
@@ -131,7 +131,7 @@ export default function LandingPage() {
               </CardContent>
               <CardFooter className="flex justify-between">
               <div></div>
-                <Link href="/docs/features" className="text-right" >See More</Link>
+                <Link href="/docs/features/docs-manager" className="text-right" >See More</Link>
               </CardFooter>
             </Card>
           </div>

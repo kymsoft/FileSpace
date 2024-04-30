@@ -12,7 +12,7 @@ export function SideNavigation() {
 
   return (
     <div className="md:w-60 hidden md:block flex flex-col gap-4 p-2">
-      <Link href="/dashboard/files">
+      <Link href="/docs/introduction">
         <Button
           variant={"link"}
           className={clsx("flex gap-2", {
@@ -23,7 +23,7 @@ export function SideNavigation() {
         </Button>
       </Link>
 
-      <Link href="/dashboard/favorites">
+      <Link href="/docs/features/docs-manager">
         <Button
           variant={"link"}
           className={clsx("flex gap-2", {
@@ -34,14 +34,14 @@ export function SideNavigation() {
         </Button>
       </Link>
 
-      <Link href="/dashboard/trash">
+      <Link href="/docs/features/customizable-workspace">
         <Button
           variant={"link"}
           className={clsx("flex gap-2", {
             "text-blue-500": pathname.includes("/dashboard/trash"),
           })}
         >
-          FAQ
+          Workspace
         </Button>
       </Link>
     </div>
