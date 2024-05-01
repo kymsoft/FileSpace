@@ -25,6 +25,7 @@
     "@radix-ui/react-toast": "^1.1.5",
     "@tanstack/react-query": "^5.25.0",
     "@tanstack/react-table": "^8.13.2",
+    "@tanstack/table-core": "^8.16.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "convex": "^1.10.0",
